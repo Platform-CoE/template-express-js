@@ -1,0 +1,13 @@
+{
+    "project_name": "express-app",
+    "project_description": "Express.js application template",
+    "project_version": "1.0.0",
+    "project_author": "Platform-CoE",
+    "github_repo_name": "express-template",
+    "github_repo_owner": "Platform-CoE",
+    "dev_db_host": "127.0.0.1",
+    "dev_db_port": "5432",
+    "dev_db_name": "express_dev",
+    "dev_db_user": "postgres",
+    "dev_db_password": "postgres"
+} 

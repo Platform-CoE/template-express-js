@@ -1,0 +1,24 @@
+# 캐시 파일
+.cache/
+.eslintcache
+
+# VS Code 관련
+.vscode/
+.DS_Store
+src/.DS_Store
+
+# IntelliJ IDEA / WebStorm 관련
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+node_modules/.idea/
+
+# 특정 IntelliJ 설정 파일 제외
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/shelf/
+.idea/**/dataSources/
+.idea/**/dataSources.local.xml
+.idea/httpRequests/
