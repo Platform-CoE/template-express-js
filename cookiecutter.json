@@ -1,9 +1,9 @@
 {
-    "project_name": "express-app",
+    "project_name": "express-project-example",
     "project_description": "Express.js application template",
     "project_version": "1.0.0",
     "project_author": "Platform-CoE",
-    "github_repo_name": "express-template",
+    "github_repo_name": "express-project-example",
     "github_repo_owner": "Platform-CoE",
     "dev_db_host": "127.0.0.1",
     "dev_db_port": "5432",
